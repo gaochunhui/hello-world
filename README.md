@@ -1,2 +1,2 @@
 # hello-world
-github入门
+Hi,github入门
